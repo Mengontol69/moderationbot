@@ -1,0 +1,2 @@
+# moderationbot
+A SIMPLE DISCORD MODERATION BOT
