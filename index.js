@@ -7,7 +7,7 @@ client.aliases = new Discord.Collection();
 client.db = require("quick.db");
 
 client.on("ready", async () => {
-  console.log(`Yo boii!! Moderation Bot is READY!! `);
+  console.log(`hey there Moderation Bot is READY!! `);
   client.user
     .setActivity(`hpriyam8`, { type: "LISTENING" })
     .catch(error => console.log(error));
